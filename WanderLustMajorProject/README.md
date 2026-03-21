@@ -17,11 +17,7 @@ Finding and managing travel accommodations online requires a seamless and secure
 
 ---
 
-## 🚀 Live Application
 
-🔗 https://wanderlustmajorproject-vozn.onrender.com
-
----
 
 ## 📸 Screenshots
 
@@ -145,7 +141,7 @@ Wanderlust/
 ### 1️⃣ Clone the Repository
 
 ```bash id="g37t3k"
-git clone https://github.com/ayushhhkumar/WanderLustMajorProject.git
+git clone https://github.com/Pratyush-itgithub/wanderLust
 cd WanderLustMajorProject
 ```
 
@@ -183,15 +179,7 @@ nodemon app.js
 
 ---
 
-## 🚀 Deployment
 
-The application is deployed using:
-
-* Backend → Render Web Service
-* Database → MongoDB Atlas
-* Media Storage → Cloudinary
-
----
 
 ## 📚 Key Learnings
 
@@ -215,9 +203,8 @@ The application is deployed using:
 
 ## 👨‍💻 Author
 
-**Ayush Kumar** <br/>
-🔗 GitHub: https://github.com/ayushhhkumar <br/>
-🔗 LinkedIn: https://www.linkedin.com/in/ayushhhkumar/
+**Pratyush Pandey** <br/>
+🔗 GitHub: https://github.com/Pratyush-itgithub/wanderLust 
 
 ---
 
