@@ -141,7 +141,7 @@ Wanderlust/
 ### 1️⃣ Clone the Repository
 
 ```bash id="g37t3k"
-git clone https://github.com/Pratyush-itgithub/wanderLust
+git clone https://github.com/PratyushPandey31/wanderLust.git
 cd WanderLustMajorProject
 ```
 
@@ -204,7 +204,7 @@ nodemon app.js
 ## 👨‍💻 Author
 
 **Pratyush Pandey** <br/>
-🔗 GitHub: https://github.com/Pratyush-itgithub/wanderLust 
+🔗 GitHub: https://github.com/PratyushPandey31/wanderLust.git
 
 ---
 
